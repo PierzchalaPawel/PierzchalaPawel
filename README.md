@@ -1,7 +1,7 @@
 ### Hello World 👋
-I am a fullstack software engineer working with ReactJS, NodeJS and AWS Serverless Technologies.
+I am an embedded software engineer, working with STM32 and ESP microcontrollers, programming mainly in C and C++. Additionally, I deal with PCB design.
 
-I am also a technical writer. Love to share what I learn.
+I am also a designer of automation systems and I like to implement the projects I implement.
 
 Personal Website: 
 
