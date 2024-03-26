@@ -1,7 +1,7 @@
 ### Hello World 👋
-I am an embedded software engineer, working with STM32 and ESP microcontrollers, programming mainly in C and C++. Additionally, I deal with PCB design.
+As a hobbyist, I delve into programming, specializing in embedded software engineering. I work with STM32 and ESP microcontrollers, primarily programming in C and C++. Additionally, I handle PCB design.
 
-I am also a designer of automation systems and I like to implement the projects I implement.
+I am also an automation systems designer, and I enjoy implementing the projects I design.
 
 Personal Website: 
 
