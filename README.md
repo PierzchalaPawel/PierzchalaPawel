@@ -33,11 +33,11 @@ Youtube Channel:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Well-Architected FastAPI Boilerplate]()
-- [Using n8n with Docker Compose]()
-- [Scraping Amazon Product Reviews]()
-- [Quitting During Layoffs was a Terrible Idea]()
-- [Great SEO-Optimized Web Application]()
+- [Tekst 1]()
+- [Tekst 2]()
+- [Tekst 3]()
+- [Tekst 4]()
+- [Tekst 5]()
 <!-- BLOG-POST-LIST:END -->
 
 
